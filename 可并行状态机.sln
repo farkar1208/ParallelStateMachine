@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "可并行状态机", "可并行状态机.csproj", "{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{CBF1B49E-E5B7-479B-B6AD-4DCB407A0767}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

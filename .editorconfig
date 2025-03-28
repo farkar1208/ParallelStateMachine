@@ -1,0 +1,10 @@
+root = true
+
+[*]
+charset = utf-8
+
+# IDE0003: 删除限定
+dotnet_style_qualification_for_event = true
+
+# IDE0003: 删除限定
+dotnet_diagnostic.IDE0003.severity = none
